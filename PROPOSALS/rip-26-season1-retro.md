@@ -18,7 +18,7 @@ This is a retro distribution request for all Raid Guild Season 1 cohort members,
 
 After verifying with AaronS, we will benchmark the request per member to the minimum amount of 20,461.73 RAID (rounded down to 20,461). Since we have 38 members, this gives us a total of 20,461 * 38 = 777,518 $RAID.
 
-777,518 $RAID will be sent to the Season 1 DAO's Treasury address (), where each member claims their respective shares via a Funding Proposal. 
+777,518 $RAID will be sent to the Season 1 DAO's Treasury address (0x10e31c10fb4912bc408ce6c585074bd8693f2158), where each member claims their respective shares via a Funding Proposal. 
 
 
 ## Amount of RAID Request (in RAID)
@@ -33,6 +33,7 @@ _below are the reference amounts on initial distribution
 | client | 62,878.40 RAID | 62,878.40 RAID    | 188,635.19 RAID   | 314,391.98 RAID   | 691,662.35 RAID   |
 
 ## Address to receive the RAID
+0x10e31c10fb4912bc408ce6c585074bd8693f2158
 
 ## Request Type
 _mark all that apply_
